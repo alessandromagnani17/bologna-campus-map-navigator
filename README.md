@@ -20,8 +20,10 @@ The project was implemented using **React Native**, with support from **Expo**, 
 
 An interactive map displays the Bologna campus, allowing users to view and click on campus buildings for additional information.
 
-![Initial Map View](images/initial-map.png)
-![Map with Campus Buildings Highlighted](images/map-with-buildings.png)
+<div align="center">
+  <img src="images/initial-map.png" alt="Initial Map View" width="45%" />
+  <img src="images/map-with-buildings.png" alt="Map with Campus Buildings Highlighted" width="45%" />
+</div>
 
 ### 2. **User Geolocation**
 
@@ -34,9 +36,11 @@ Using MapBox's Directions API, the app calculates routes from the user's current
 - **Routing Steps**: Each step in the route is clickable, displaying the corresponding map location.
 - **Compact Route Display**: The route information table can be minimized for convenience on smaller screens.
 
-![Route Details Table](images/route-table.png)
-![Minimized Route Table](images/minimized-table.png)
-![Highlighted Route Step](images/route-step.png)
+<div align="center">
+  <img src="images/route-table.png" alt="Route Details Table" width="31%" />
+  <img src="images/minimized-table.png" alt="Minimized Route Table" width="31%" />
+  <img src="images/route-step.png" alt="Highlighted Route Step" width="31%" />
+</div>
 
 ### 4. **Arrival Marker Customization**
 
@@ -46,9 +50,11 @@ Users can set their destination by tapping on buildings, moving the marker, or d
 
 Three different navigation modes (walking, biking, driving) are available to enhance route calculations. Each mode optimizes routes based on the chosen travel method.
 
-![Walking Route](images/walking-route.png)
-![Biking Route](images/biking-route.png)
-![Driving Route](images/driving-route.png)
+<div align="center">
+  <img src="images/walking-route.png" alt="Walking Route" width="31%" />
+  <img src="images/biking-route.png" alt="Biking Route" width="31%" />
+  <img src="images/driving-route.png" alt="Driving Route" width="31%" />
+</div>
 
 ---
 
